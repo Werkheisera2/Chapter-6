@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\WhipIt..WhipItRealGood\bin\Debug\WhipIt._.WhipItRealGood.exe
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\WhipIt..WhipItRealGood\bin\Debug\WhipIt._.WhipItRealGood.pdb
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\WhipIt..WhipItRealGood\obj\x86\Debug\WhipIt._.WhipItRealGood.exe
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\WhipIt..WhipItRealGood\obj\x86\Debug\WhipIt._.WhipItRealGood.pdb

@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\CheckYeZipperMatey\bin\Debug\CheckYeZipperMatey.exe
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\CheckYeZipperMatey\bin\Debug\CheckYeZipperMatey.pdb
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\CheckYeZipperMatey\obj\x86\Debug\CheckYeZipperMatey.exe
+C:\Users\eahscs\Desktop\Chapter-5\Chapter-5\CheckYeZipperMatey\obj\x86\Debug\CheckYeZipperMatey.pdb
