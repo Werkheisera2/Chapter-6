@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatwithWill", "ChatAWhil\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhipItWhipItRealGood", "WhipIt..WhipItRealGood\WhipItWhipItRealGood.csproj", "{3ACB1879-BFDA-45C0-94F6-5D7C93184768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallsofTee", "BallsofTee\BallsofTee.csproj", "{38F4C142-180E-4252-8D90-7B307468F164}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{3ACB1879-BFDA-45C0-94F6-5D7C93184768}.Debug|x86.Build.0 = Debug|x86
 		{3ACB1879-BFDA-45C0-94F6-5D7C93184768}.Release|x86.ActiveCfg = Release|x86
 		{3ACB1879-BFDA-45C0-94F6-5D7C93184768}.Release|x86.Build.0 = Release|x86
+		{38F4C142-180E-4252-8D90-7B307468F164}.Debug|x86.ActiveCfg = Debug|x86
+		{38F4C142-180E-4252-8D90-7B307468F164}.Debug|x86.Build.0 = Debug|x86
+		{38F4C142-180E-4252-8D90-7B307468F164}.Release|x86.ActiveCfg = Release|x86
+		{38F4C142-180E-4252-8D90-7B307468F164}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
